@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Meme Master Checklist",
+      "hasCanvas": false,
+      "bodyTextLen": 3102,
+      "bodyTextHash": "3ef1e29f83f34c88430f8c96995248afdd83a24bf98b473d4e573b38b24b9f62",
+      "bodyTextPrefix": "3am desk Meme Master Checklist 0/11 checked The exact tabs from ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Meme Master Checklist",
+      "hasCanvas": false,
+      "bodyTextLen": 3102,
+      "bodyTextHash": "3ef1e29f83f34c88430f8c96995248afdd83a24bf98b473d4e573b38b24b9f62",
+      "bodyTextPrefix": "3am desk Meme Master Checklist 0/11 checked The exact tabs from ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
